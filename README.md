@@ -40,11 +40,14 @@ I am a **Full-Stack Developer** with **7+ years of experience**, specializing in
 
 ## 📊 **Highlighted Projects**
 
-### [RAG System](https://github.com/khorevnikita/rag-service-lite)
+### [RAG System](https://github.com/khorevnikita/rag-service-lite) [python]
 An advanced Retrieval-Augmented Generation (RAG) system for efficient and context-aware information retrieval.
 
-### [Web Scraper](https://github.com/khorevnikita/rag-scrapper)
+### [Web Scraper](https://github.com/khorevnikita/rag-scrapper) [python]
 A robust web-scraping solution designed to extract structured data from diverse web sources.
+
+### [RAG Telegram bot](https://github.com/khorevnikita/rag-telegram-bot-lite) [golang]
+Telegram bot for RAG System.
 
 ---
 
